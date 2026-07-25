@@ -1,0 +1,6 @@
+{
+  "name": "A Story That Never Asked To Be Finished",
+  "description": "An interactive cinematic anime story and visual novel experience with Bengali poetry, Makoto Shinkai atmospheric lighting, particle animations, ambient audio soundscapes, and customizable narration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
